@@ -1,3 +1,9 @@
+<div align="center">
+<h1>Hi! I'm Matthew 🙂<br>
+Programmer | Game Developer | Content Creator
+</h1>
+</div>
+
 # 💫 About Me:
 🔭 I'm currently working on [EntityZero](https://xenonthemlg.itch.io/entity0)<br>
 🎓 I'm studying at [AGH Faculty of Computer Science](https://www.informatyka.agh.edu.pl/pl/)<br>
